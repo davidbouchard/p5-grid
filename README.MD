@@ -1,6 +1,6 @@
 # p5 Grid
 
-A small p5.js cellular automata sketch. The project creates a black-and-white grid and simulates Conway's Game of Life, where cells live, die, and evolve over time based on neighbor counts.
+A small p5.js cellular automata sketch. The project creates a black-and-white grid and simulates Conway's Game of Life, where cells live, die, and evolve over time based on neighbor counts. The sketch uses p5play's Pixelated canvas to render small images at a larger scale. 
 
 To use the Grid class in other projects for experimenting with cellular automatas: 
 
