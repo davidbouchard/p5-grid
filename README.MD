@@ -4,7 +4,7 @@ A small p5.js cellular automata sketch. The project creates a black-and-white gr
 
 To use the Grid class in other projects for experimenting with cellular automatas: 
 
-`<script src="https://cdn.jsdelivr.net/gh/davidbouchard/p5-grid/src/grid.js"></script>`
+`<script src="https://cdn.jsdelivr.net/gh/davidbouchard/p5-wfc@v1.0/src/wfc.js"></script>`
 
 ## Controls
 
